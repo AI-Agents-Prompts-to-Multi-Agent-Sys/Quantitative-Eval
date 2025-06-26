@@ -1,9 +1,9 @@
-pandas~=2.2.3
+pandas~=2.3.0
 matplotlib~=3.10.3
 seaborn~=0.13.2
-numpy~=2.2.6
+numpy~=2.3.1
 langchain-google-genai~=2.1.5
-langgraph~=0.4.7
+langgraph~=0.4.10
 dotenv~=0.9.9
-python-dotenv~=1.1.0
+python-dotenv~=1.1.1
 protobuf~=6.31.1
