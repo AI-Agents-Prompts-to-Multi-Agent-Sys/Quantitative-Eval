@@ -6,3 +6,4 @@ langchain-google-genai~=2.1.5
 langgraph~=0.4.10
 tqdm~=4.67.1
 tenacity~=8.2.3
+google-ai-generativelanguage==0.6.15
