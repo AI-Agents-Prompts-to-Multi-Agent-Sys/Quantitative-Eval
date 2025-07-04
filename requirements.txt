@@ -7,3 +7,4 @@ langgraph~=0.4.10
 tqdm~=4.67.1
 tenacity~=8.2.3
 seaborn
+google-ai-generativelanguage==0.6.15
