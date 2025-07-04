@@ -1,3 +1,4 @@
+google-ai-generativelanguage==0.6.15
 pandas==2.2.2
 matplotlib~=3.10.3
 seaborn~=0.13.2
@@ -7,4 +8,3 @@ langgraph~=0.4.10
 tqdm~=4.67.1
 tenacity~=8.2.3
 seaborn
-google-ai-generativelanguage==0.6.15
